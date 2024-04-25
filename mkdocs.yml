@@ -1,0 +1,24 @@
+site_name: Crow 64 Wiki
+copyright: Copyright &copy; 2024 <a href="https://discord.gg/khV4fdDYpv" target="_blank">Catastrophe Crow 64 Wiki</a>, Worked on by the <a href="/credits">CC64 Discord Server</a>.
+site_description: CC64 Wiki
+site_author: CC64 Discord Server.
+theme:
+  name: slate
+  locale: en
+
+nav:
+  - 'index.md'
+  - 'main.md'
+  - 'credits.md'
+
+markdown_extensions:
+  - admonition
+  - def_list
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+    - css/custom.css
