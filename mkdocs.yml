@@ -5,6 +5,8 @@ site_author: CC64 Discord Server.
 theme:
   name: slate
   locale: en
+  logo: Mr._Crow.png
+  favicon : Mr._Crow.png
 
 nav:
   - 'index.md'
