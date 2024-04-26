@@ -8,4 +8,4 @@ title: Start
 ## Start
 
 !!! note ""
-    We recommend reading The [Main Documentation](main.md) for The ARG as it explains Most of The lore and [Ciphers](ciphers.md)!
+    We recommend reading The [Main Documentation](main.md) for The ARG as it explains Most of The lore and Ciphers!

@@ -9,6 +9,7 @@ theme:
 nav:
   - 'index.md'
   - 'main.md'
+  - 'Recap.md'
   - 'credits.md'
 
 markdown_extensions:
