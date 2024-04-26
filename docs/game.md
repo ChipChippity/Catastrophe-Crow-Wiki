@@ -40,9 +40,9 @@ This document is created and updated by the Catastrophe Crow community members t
 # Known Characters
 
 !!! note "Extensive Details"
-    More detailed explanation about The Characters can be found in [The Characters Section of The Main doc](/main/#characters)
+    More detailed explanation about The Characters can be found in [The Characters Section of The Main doc](./main/#characters)
 
-## Within The Real and Fictional universe
+## Where we left off
 
 ### Adam Butcher 
 
@@ -98,7 +98,7 @@ This document is created and updated by the Catastrophe Crow community members t
 # Ciphers
 
 !!! note "Extensive Details"
-    More Detailed Explanation about The Ciphers can be found in [The Known Ciphers Section of The Main doc](/main/#known-ciphers)
+    More Detailed Explanation about The Ciphers can be found in [The Known Ciphers Section of The Main doc](./main/#known-ciphers)
 
 ## Crow language
 
