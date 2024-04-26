@@ -63,6 +63,11 @@ This document is created and updated by the Catastrophe Crow community members t
 
 <br></br>
 
+### Nils Lorenz
+
+**Nils Lorenz** - Manfred's son. Email correspondence with Manfred suggested that Nils remained alive, but he has never shown himself. 
+<br></br>
+
 ### Ulrich Aderman
 
 ![Image ](images/ulrich.png){align=right width="180"}**Ulrich Aderman** - A former employee of OPUS Interactive. Noticing discussion of the game online, he posted an encrypted copy of his workstation's hard drive, which the community managed to decrypt, ending the initial ARG. Ulrich is presently retired and with family, [he has no idea who is behind OPUS Legacy](https://twitter.com/AdermanUlrich/status/1711384865331900664). 
