@@ -129,6 +129,7 @@ Around 0:06 an odd sound appears. Reversing it you can hear the word “Resurrec
 ### Coins UI and Controller Pattern Puzzle
 
 Starting from 0:07 the controller appears on the screen. Looking in the right bottom corner you can see the coins ui. This current frame says 00.
+
 ![Image](images/recap9.png){width="100}
 
 Around a second later, an almost identical thing appears, but now with 01 in there.
