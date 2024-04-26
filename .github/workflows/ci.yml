@@ -27,4 +27,5 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material 
       - run: pip install mkdocs-bootswatch
-      - run: mkdocs gh-deploy --force
+      - run: git pull
+      - run: mkdocs gh-deploy --clean
