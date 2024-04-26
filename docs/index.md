@@ -2,7 +2,7 @@ title: Start
 # Welcome to The Official Crow 64 Wiki
 
 <p align="center">
-   <img src="/images/image4.png" width="50%">
+   <img src="./images/image4.png" width="50%">
 </p>
 
 
