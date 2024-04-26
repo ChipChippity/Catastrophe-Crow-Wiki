@@ -142,8 +142,10 @@ The first letter of a sound’s name often corresponds to the keyboard letter th
 ## Human Characters
 
 ### Manfred Lorenz
-*Pronounced [man.frɛt lɔ.rɛnts] (maan-fret lau-rents)*
+
 ![Image](images/image73.jpg){width="300}
+
+*Pronounced [man.frɛt lɔ.rɛnts] (maan-fret lau-rents)*
 
 The illustrious creator of Catastrophe Crow and Ocean Quest and lead programmer at now-defunct Opus Interactive. Noted perfectionist, and receiver of two Golden Joysticks and an AIAS Hall of Fame Award. Late in development of Catastrophe Crow, his home life had fallen apart and he had not seen his family for months. In the final months he was the final and only developer on the project as all other staff members were let go.
 
