@@ -10,6 +10,7 @@ nav:
   - 'index.md'
   - 'main.md'
   - 'Recap.md'
+  - 'game.md'
   - 'credits.md'
 
 markdown_extensions:
